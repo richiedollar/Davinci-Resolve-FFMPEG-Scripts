@@ -1,0 +1,1 @@
+ffmpeg -i original.mp4 -c:v copy -c:a flac outtt.mp4
